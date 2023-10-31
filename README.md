@@ -1,2 +1,2 @@
 # monthly-electricity-fts
-Predict Monthly Electricity for All OECD Member Countries using Fuzzy Time Series
+Predict monthly electricity for all OECD member countries using Fuzzy Time Series
